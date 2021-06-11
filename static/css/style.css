@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(220, 220, 247);
+}
+
+label {
+  margin-bottom: 1%;
+  font-size: 1.5rem;
+}
+
+button {
+  margin-top: 2%;
+}
+
+.heading {
+  margin-bottom: 2%;
+}
+
+.login {
+  margin: 5%;
+}
+
+.btn-margin {
+  margin-left: 5%;
+}
+
+/* Response Page Specific */
+
+.zoom {
+  height: 10%;
+  width: 10%;
+  transition: transform 0.1s;
+  margin: 3% 5% 0;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}

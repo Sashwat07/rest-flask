@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(220, 220, 247);
+}
+
+.heading {
+  margin-bottom: 2%;
+}
+
+.login {
+  margin: 5%;
+}
+
+.btn-margin {
+  margin-left: 5%;
+}
